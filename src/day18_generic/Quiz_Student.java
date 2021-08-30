@@ -58,7 +58,12 @@ public class Quiz_Student {
 				list.add(dto);
 				
 				break;
-			case 2:break;
+			case 2:
+				System.out.println("검색 학번 입력");
+				stNum = input.next();
+				
+				
+				break;
 			case 3:break;
 			case 4:break;
 			case 5:
